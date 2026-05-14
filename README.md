@@ -30,6 +30,7 @@ I am a 3rd-year PhD candidate at the School of Software in Tianjin University, s
 
 ### 🏆 Competitions & Awards
 
+*   🤝 **Gold Reviewer**, ICML 2026
 *   🥇 **Champion (Team Lead)**, Single Image Reflection Removal in the Wild Challenge — *CVPR 2025 NTIRE Workshop*
 *   🥇 **Champion (Team Lead)**, Image Shadow Removal Challenge — *CVPR 2025 NTIRE Workshop*
 *   🥇 **Champion (Team Lead)**, Efficient RAW Domain Object Detection Challenge — *Huawei Ascend AI Innovation Contest 2023*
