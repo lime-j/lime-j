@@ -1,6 +1,6 @@
 ### Hi there, I'm Mingjia Li! 👋
 
-I am a 3rd-year PhD candidate at the School of Software in Tianjin University, supervised by Prof. Xiaojie Guo. I received my BEng in Computer Science and BSc in Computational Mathematics at Hebei University of Technology in 2021. My research primarily revolves around low-level vision tasks (image generation, restoration, and enhancement). I am also passionate about designing hardware-aware, efficient model architectures. You can always reach me at [mingjiali@tju.edu.cn](mailto:mingjiali@tju.edu.cn).
+I am a 3rd-year PhD candidate at the School of Software in Tianjin University, supervised by Prof. Xiaojie Guo. I received my BEng in Computer Science and BSc in Computational Mathematics at Hebei University of Technology in 2021. Currently, I work as a research intern at Canva AI Research for training large-scale text-to-image model. My research primarily revolves around low-level vision tasks (image generation, restoration, and enhancement). I am also passionate about designing hardware-aware, efficient model architectures. You can always reach me at [mingjiali@tju.edu.cn](mailto:mingjiali@tju.edu.cn).
 
 ---
 
