@@ -14,7 +14,7 @@ I am a final-year PhD candidate at the School of Software in Tianjin University,
 
 ### 📝 Selected Publications
 
-*   **[ACMMM 2026]** On the Global Photometric Alignment for Low-Level Vision *(First Author)* - [Link](https://arxiv.org/pdf/2604.08172)
+*   **[ACM MM 2026]** On the Global Photometric Alignment for Low-Level Vision *(First Author)* - [Link](https://arxiv.org/pdf/2604.08172)
 *   **[ECCV 2026]** CaRe: Critical Parameter Rectification for Efficient Visual Modeling *(First Author)*
 *   **[Preprint]** WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation. *(Co-First Author)* - [Link](https://arxiv.org/pdf/2603.15132)
 *   **[Preprint]** Anchor then Polish for Low-light Enhancement *(Co-First Author)* - [Link](https://arxiv.org/abs/2603.15472)
