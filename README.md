@@ -1,6 +1,6 @@
 ### Hi there, I'm Mingjia Li! 👋
 
-I am a 3rd-year PhD candidate at the School of Software in Tianjin University, supervised by Prof. Xiaojie Guo. I received my BEng in Computer Science and BSc in Computational Mathematics at Hebei University of Technology in 2021. Currently, I work as a research intern at Canva AI Research for training large-scale text-to-image model. My research primarily revolves around low-level vision tasks (image generation, restoration, and enhancement). I am also passionate about designing hardware-aware, efficient model architectures. You can always reach me at [mingjiali@tju.edu.cn](mailto:mingjiali@tju.edu.cn).
+I am a final-year PhD candidate at the School of Software in Tianjin University, supervised by Prof. Xiaojie Guo. I received my BEng in Computer Science and BSc in Computational Mathematics at Hebei University of Technology in 2021. Currently, I work as a research intern at Canva AI Research for training large-scale text-to-image model. My research primarily revolves around low-level vision tasks (image generation, restoration, and enhancement). I am also passionate about designing hardware-aware, efficient model architectures. You can always reach me at [mingjiali@tju.edu.cn](mailto:mingjiali@tju.edu.cn).
 
 ---
 
@@ -14,8 +14,8 @@ I am a 3rd-year PhD candidate at the School of Software in Tianjin University, s
 
 ### 📝 Selected Publications
 
-*   **[Preprint]** On the Global Photometric Alignment for Low-Level Vision *(First Author)* - [Link](https://arxiv.org/pdf/2604.08172)
-*   **[Preprint]** CaRe: Critical Parameter Rectification for Efficient Visual Modeling *(First Author)*
+*   **[ACMMM 2026]** On the Global Photometric Alignment for Low-Level Vision *(First Author)* - [Link](https://arxiv.org/pdf/2604.08172)
+*   **[ECCV 2026]** CaRe: Critical Parameter Rectification for Efficient Visual Modeling *(First Author)*
 *   **[Preprint]** WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation. *(Co-First Author)* - [Link](https://arxiv.org/pdf/2603.15132)
 *   **[Preprint]** Anchor then Polish for Low-light Enhancement *(Co-First Author)* - [Link](https://arxiv.org/abs/2603.15472)
 *   **[CVPR 2026]** Rectifying Latent Space for Generative Single-Image Reflection Removal *(First Author)* - [Link](https://arxiv.org/pdf/2512.06358)
@@ -30,6 +30,7 @@ I am a 3rd-year PhD candidate at the School of Software in Tianjin University, s
 
 ### 🏆 Competitions & Awards
 
+*   🤝 **Outstanding Reviewer**, CVPR 2026
 *   🤝 **Gold Reviewer**, ICML 2026
 *   🥇 **Champion (Team Lead)**, Single Image Reflection Removal in the Wild Challenge — *CVPR 2025 NTIRE Workshop*
 *   🥇 **Champion (Team Lead)**, Image Shadow Removal Challenge — *CVPR 2025 NTIRE Workshop*
